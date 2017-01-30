@@ -44,4 +44,4 @@ solve(m1)
 solve(n1)
 myMatrix_object <- makeCacheMatrix(m1)
 cacheSolve(myMatrix_object)
-cacheSolve(myMatrix_object) #This second call retrives the the inverse of the matrix "m1" without recalculating but from the cache#
+cacheSolve(myMatrix_object) #This second call retrives the inverse of the matrix "m1" without recalculating but from the cache#
